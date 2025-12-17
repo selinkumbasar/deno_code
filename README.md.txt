@@ -2,7 +2,7 @@ Student: Selin Kumbasar
 ID: 2021211114
 
 I have implemented 2 features.
-I have listed them down under. I have included the video of the implementation with the name "DENO- react video"
+I have listed them down under. 
 1. Caching (Tasks)
 
 First GET /api/tasks loads from fake database
@@ -26,5 +26,6 @@ Terminal logs show:
 React login page with validation
 
 Successful login switches UI to Task Manager
+
 
 Logout clears localStorage and returns user to Login screen
